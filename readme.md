@@ -52,8 +52,33 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 ## Organisation
 
 ### Pizza Teams
+- [http://knowledge.wharton.upenn.edu/article.cfm?articleid=1501](http://knowledge.wharton.upenn.edu/article.cfm?articleid=1501)
+- [http://www.projectsatwork.com/article.cfm?ID=227526](http://www.projectsatwork.com/article.cfm?ID=227526)
+- [http://www.teambuildingportal.com/articles/systems/teamperformance-teamsize](http://www.teambuildingportal.com/articles/systems/teamperformance-teamsize)
+- [http://math.arizona.edu/~lega/485-585/Group_Dynamics_RV.pdf](http://math.arizona.edu/~lega/485-585/Group_Dynamics_RV.pdf)
+- [http://www.articlesnatch.com/Article/What-Project-Team-Size-Is-Best-/589717](http://www.articlesnatch.com/Article/What-Project-Team-Size-Is-Best-/589717)
+- [http://www.qsm.com/process_improvement_01.html](http://www.qsm.com/process_improvement_01.html)
+- [http://www.fastcompany.com/magazine/85/bezos_4.html](http://www.fastcompany.com/magazine/85/bezos_4.html)
+- [https://speakerdeck.com/u/searls/p/the-mythical-team-month](https://speakerdeck.com/u/searls/p/the-mythical-team-month)
+- [http://www.3circlepartners.com/news/team-size-matters](http://www.3circlepartners.com/news/team-size-matters)
+- [http://37signals.com/svn/posts/995-if-youre-working-in-a-big-group-youre-fightinghuman-nature](http://37signals.com/svn/posts/995-if-youre-working-in-a-big-group-youre-fightinghuman-nature)
+
 ### Feature Teams
+- [http://www.time.com/time/specials/packages/article/0,28804,2036683_2037109_2037111,00.html](http://www.time.com/time/specials/packages/article/0,28804,2036683_2037109_2037111,00.html)
+- [http://doi.acm.org/10.1145/255656.255698](http://doi.acm.org/10.1145/255656.255698)
+- [http://blog.octo.com/compte-rendu-du-petit-dejeuner-organise-par-octo-et-stratorretour-dexperience-lagilite-a-grande-echelle](http://blog.octo.com/compte-rendu-du-petit-dejeuner-organise-par-octo-et-stratorretour-dexperience-lagilite-a-grande-echelle)
+
 ### DevOps
+- [http://www.cutter.com/offers/devopsrevolution.html](http://www.cutter.com/offers/devopsrevolution.html)
+- [http://en.wikipedia.org/wiki/DevOps](http://en.wikipedia.org/wiki/DevOps)
+- [http://velocityconference.blip.tv/file/2284377/](http://velocityconference.blip.tv/file/2284377/)
+- [http://dev2ops.org/blog/2010/2/22/what-is-devops.html](http://dev2ops.org/blog/2010/2/22/what-is-devops.html)
+- [http://www.kitchensoap.com/2009/12/12/devops-cooperation-doesntjust-happen-with-deployment/](http://www.kitchensoap.com/2009/12/12/devops-cooperation-doesntjust-happen-with-deployment/)
+- [http://dev2ops.org/blog/2010/4/7/why-so-many-devopsconversationsfocus-on-deployment.html](http://dev2ops.org/blog/2010/4/7/why-so-many-devopsconversationsfocus-on-deployment.html)
+- [http://www.usievents.com/fr/conferences/4-usi-2009/sessions/797-quelques-idees-issues-des-grands-du-web-pour-remettre-en-cause-vosreflexes-d-architectes#webcast_autoplay](http://www.usievents.com/fr/conferences/4-usi-2009/sessions/797-quelques-idees-issues-des-grands-du-web-pour-remettre-en-cause-vosreflexes-d-architectes#webcast_autoplay)
+
+
+
 
 
 
