@@ -85,6 +85,11 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 ## Pratiques
 
 ### Lean Startup
+- [http://www.stevenblank.com/books.html](http://www.stevenblank.com/books.html)
+- [http://blog.startupcompass.co/](http://blog.startupcompass.co/)
+- [http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+- [http://www.amazon.com/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302](http://www.amazon.com/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302)
+
 ### Minimum Viable Product
 ### Continuous Deployment
 ### Feature Flipping
