@@ -99,12 +99,22 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 - [http://www.slideshare.net/Mgandin/lean-startup03-slideshare](http://www.slideshare.net/Mgandin/lean-startup03-slideshare)
 - [http://www.runningleanhq.com/](http://www.runningleanhq.com/)
 
-
 ### Continuous Deployment
+- [https://github.com/etsy/deployinator](https://github.com/etsy/deployinator)
+- [http://code.flickr.com](http://code.flickr.com)
+- [https://www.facebook.com/notes/facebook-engineering/ship-earlyand-ship-twice-as-often/10150985860363920](https://www.facebook.com/notes/facebook-engineering/ship-earlyand-ship-twice-as-often/10150985860363920)
+- [http://code.flickr.com/blog/2009/12/02/flipping-out](http://code.flickr.com/blog/2009/12/02/flipping-out)
+- [http://codeascraft.etsy.com/2011/02/04/how-does-etsy-managedevelopment-and-operations](http://codeascraft.etsy.com/2011/02/04/how-does-etsy-managedevelopment-and-operations)
+- [http://timothyfitz.wordpress.com/2009/02/10/continuous-deploymentat-imvu-doing-the-impossible-fifty-times-a-day](http://timothyfitz.wordpress.com/2009/02/10/continuous-deploymentat-imvu-doing-the-impossible-fifty-times-a-day)
+- [http://www.informit.com/articles/article.aspx?p=1833567](http://www.informit.com/articles/article.aspx?p=1833567)
+- [http://www.avc.com/a_vc/2011/02/continuous-de](http://www.avc.com/a_vc/2011/02/continuous-de)
+
 ### Feature Flipping
-### Feature Flipping
+
 ### Test A/B
+
 ### Device Agnostic
+
 ### La Bêta perpétuelle
 
 
