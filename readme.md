@@ -140,11 +140,47 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 ## Architecture
 
 ### Cloud First
+- [http://www.forbes.com/sites/microsoft/2011/02/15/kundra-outlines-cloud-first-policy-foru-s-government](http://www.forbes.com/sites/microsoft/2011/02/15/kundra-outlines-cloud-first-policy-foru-s-government)
+- [http://techblog.netflix.com/2011/04/lessons-netflix-learned-from-aws-outage.html](http://techblog.netflix.com/2011/04/lessons-netflix-learned-from-aws-outage.html)
+
 ### Commodity Hardware
+- [http://news.cnet.com/8301-1001_3-10209580-92.html](http://news.cnet.com/8301-1001_3-10209580-92.html)
+- [http://techcrunch.com/2008/07/14/salesforce-ditch-remainder-of-sun-hardware](http://techcrunch.com/2008/07/14/salesforce-ditch-remainder-of-sun-hardware)
+- [http://fr.wikipedia.org/wiki/Downsizing_(informatique)](http://fr.wikipedia.org/wiki/Downsizing_(informatique))
+
 ### Sharding
+- [http://en.wikipedia.org/wiki/Sharding](http://en.wikipedia.org/wiki/Sharding)
+- [http://www.morganclaypool.com/doi/pdf/10.2200/S00193ED1V01Y200905CAC006](http://www.morganclaypool.com/doi/pdf/10.2200/S00193ED1V01Y200905CAC006)
+- [http://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf](http://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf)
+- [ttp://blog.foursquare.com/2010/10/05/so-that-was-a-bummer/](http://blog.foursquare.com/2010/10/05/so-that-was-a-bummer/)
+- [http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-fromthe-foursquare.html](http://highscalability.com/blog/2010/10/15/troubles-with-sharding-what-can-we-learn-fromthe-foursquare.html)
+- [http://blog.octo.com/consistent-hashing-ou-l%E2%80%99art-de-distribuer-les-donnees/](http://blog.octo.com/consistent-hashing-ou-l%E2%80%99art-de-distribuer-les-donnees/)
+- [http://en.wikipedia.org/wiki/Quorum_(distributed_computing](http://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- [http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/fr//papers/gfs-sosp2003.pdf](http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/fr//papers/gfs-sosp2003.pdf)
+- [http://blog.octo.com/datacenter-as-a-computer-une-plongee-dans-lesdatacenters-des-acteurs-du-cloud/](http://blog.octo.com/datacenter-as-a-computer-une-plongee-dans-lesdatacenters-des-acteurs-du-cloud/)
+- [http://www.worldwidewebsize.com/](http://www.worldwidewebsize.com/)
+- [http://en.wikipedia.org/wiki/Shard_(database_architecture)](http://en.wikipedia.org/wiki/Shard_(database_architecture))
+- [http://en.wikipedia.org/wiki/Partition_%28database%29](http://en.wikipedia.org/wiki/Partition_%28database%29)
+- [http://www.codefutures.com/weblog/database-sharding/2008/06/wikipedias-scalability-architecture.html](http://www.codefutures.com/weblog/database-sharding/2008/06/wikipedias-scalability-architecture.html)
+- [http://www.codefutures.com/weblog/database-sharding/2008/05/database-sharding-at-ebay.html](http://www.codefutures.com/weblog/database-sharding/2008/05/database-sharding-at-ebay.html)
+- [http://www.codefutures.com/weblog/database-sharding/2007/09/database-sharding-at-friendster-and.html](http://www.codefutures.com/weblog/database-sharding/2007/09/database-sharding-at-friendster-and.html)
+- [http://highscalability.com/](http://highscalability.com/)
+- [http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
 ### TP vs BI : la nouvelle approche NoSQL
+- [h](h)
+- [h](h)
+- [h](h)
+- [h](h)
+
 ### Design for Failure
+- [h](h)
+- [h](h)
+- [h](h)
+- [h](h)
+
 ### « Open API » ou écosystème ouvert
-
-
-
+- [h](h)
+- [h](h)
+- [h](h)
+- [h](h)
