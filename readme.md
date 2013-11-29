@@ -168,19 +168,24 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 - [http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 ### TP vs BI : la nouvelle approche NoSQL
-- [h](h)
-- [h](h)
-- [h](h)
-- [h](h)
+- [http://en.wikipedia.org/wiki/CAP_theorem](http://en.wikipedia.org/wiki/CAP_theorem)
+- [http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+- [http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+- [http://www.infoq.com/presentations/Facebook-Software-Stack](http://www.infoq.com/presentations/Facebook-Software-Stack)
+- [http://research.google.com/archive/mapreduce.html](http://research.google.com/archive/mapreduce.html)
+- [http://hadoop.apache.org](http://hadoop.apache.org)
+- [http://wiki.apache.org/hadoop/PoweredBy](http://wiki.apache.org/hadoop/PoweredBy)
+- [http://research.google.com/pubs/pub36726.html](http://research.google.com/pubs/pub36726.html)
 
 ### Design for Failure
-- [h](h)
-- [h](h)
-- [h](h)
-- [h](h)
+- [http://don.blogs.smugmug.com/2011/04/24/how-smugmug-survivedthe-amazonpocalypse](http://don.blogs.smugmug.com/2011/04/24/how-smugmug-survivedthe-amazonpocalypse)
+- [http://www.wired.com/business/2011/04/lessons-amazon-cloud-failure](http://www.wired.com/business/2011/04/lessons-amazon-cloud-failure)
+- [http://www.cloudave.com/11973/designing-for-failure-some-key-facts](http://www.cloudave.com/11973/designing-for-failure-some-key-facts)
 
 ### « Open API » ou écosystème ouvert
-- [h](h)
-- [h](h)
-- [h](h)
-- [h](h)
+- [http://www.slideshare.net/kmakice/maturation-of-the-twitter-ecosystem](http://www.slideshare.net/kmakice/maturation-of-the-twitter-ecosystem)
+- [http://fr.wikipedia.org/wiki/Representational_State_Transfer](http://fr.wikipedia.org/wiki/Representational_State_Transfer)
+- [http://en.wikipedia.org/wiki/Service-oriented_architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [http://www.dunod.com/informatique-multimedia/fondements-de-linformatique/architectures-logicielles/ouvrages-professionnel/soa-0](http://www.dunod.com/informatique-multimedia/fondements-de-linformatique/architectures-logicielles/ouvrages-professionnel/soa-0)
+- [http://highscalability.com/scalability-perspectives-3-marc-andreesseninternet-platforms](http://highscalability.com/scalability-perspectives-3-marc-andreesseninternet-platforms)
+- [http://www.usievents.com/fr/sessions/1052-what-strategy-for-yourweb-api?conference_id=11-paris-usi-2012](http://www.usievents.com/fr/sessions/1052-what-strategy-for-yourweb-api?conference_id=11-paris-usi-2012)
