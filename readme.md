@@ -110,12 +110,30 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 - [http://www.avc.com/a_vc/2011/02/continuous-de](http://www.avc.com/a_vc/2011/02/continuous-de)
 
 ### Feature Flipping
+- [http://code.flickr.com/blog/2009/12/02/flipping-out](http://code.flickr.com/blog/2009/12/02/flipping-out)
+- [http://theagileadmin.com/2010/06/24/velocity-2010-always-ship-trunk](http://theagileadmin.com/2010/06/24/velocity-2010-always-ship-trunk)
+- [http://www.quora.com/Facebook-Engineering/How-does-Facebooks-Gatekeeper-service-work](http://www.quora.com/Facebook-Engineering/How-does-Facebooks-Gatekeeper-service-work)
+- [http://blog.forrst.com/post/782356699/how-we-deploy-new-featureson-forrst](http://blog.forrst.com/post/782356699/how-we-deploy-new-featureson-forrst)
+- [http://www.slideshare.net/eriksowa/feature-bits-at-devopsdays-2010-us](http://www.slideshare.net/eriksowa/feature-bits-at-devopsdays-2010-us)
+- [http://www.leanssc.org/files/201004/videos/20100421_Sowa_EnabilingFlowWithinAndAcrossTeams/20100421_Sowa_EnabilingFlowWithinAndAcrossTeams.html](http://www.leanssc.org/files/201004/videos/20100421_Sowa_EnabilingFlowWithinAndAcrossTeams/20100421_Sowa_EnabilingFlowWithinAndAcrossTeams.html)
+- [http://atlanta2010.leanssc.org/wp-content/uploads/2010/04/Lean_SSC_2010_Proceedings.pdf](http://atlanta2010.leanssc.org/wp-content/uploads/2010/04/Lean_SSC_2010_Proceedings.pdf)
+- [http://nosql.mypopescu.com/post/407159447/cassandra-twitter-aninterview-with-ryan-king](http://nosql.mypopescu.com/post/407159447/cassandra-twitter-aninterview-with-ryan-king)
+- [http://martinfowler.com/bliki/FeatureToggle.html](http://martinfowler.com/bliki/FeatureToggle.html)
+- [http://99designs.com/tech-blog/blog/2012/03/01/feature-flipping](http://99designs.com/tech-blog/blog/2012/03/01/feature-flipping)
 
 ### Test A/B
+- [http://visualwebsiteoptimizer.com/ab-split-significance-calculator](http://visualwebsiteoptimizer.com/ab-split-significance-calculator)
+- [http://37signals.com/svn/posts/1525-writing-decisions-headline-testson-the-highrise-signup-page](http://37signals.com/svn/posts/1525-writing-decisions-headline-testson-the-highrise-signup-page)
+- [http://www.fourhourworkweek.com/blog/2009/08/12/google-websiteoptimizer-case-study](http://www.fourhourworkweek.com/blog/2009/08/12/google-websiteoptimizer-case-study)
+- [http://fr.wikipedia.org/wiki/Test_A/B](http://fr.wikipedia.org/wiki/Test_A/B)
 
 ### Device Agnostic
+- [http://oreilly.com/Web2/archive/what-is-Web-20.html](http://oreilly.com/Web2/archive/what-is-Web-20.html)
+- [http://techcrunch.com/2011/01/19/evernote-mac-app-store](http://techcrunch.com/2011/01/19/evernote-mac-app-store)
 
 ### La Bêta perpétuelle
+- [http://oreilly.com/pub/a/web2/archive/what-is-web-20.html](http://oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+- [http://www.linux-france.org/article/these/cathedrale-bazar/cathedralebazar.html](http://www.linux-france.org/article/these/cathedrale-bazar/cathedralebazar.html)
 
 
 
