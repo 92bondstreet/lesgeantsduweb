@@ -78,10 +78,6 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 - [http://www.usievents.com/fr/conferences/4-usi-2009/sessions/797-quelques-idees-issues-des-grands-du-web-pour-remettre-en-cause-vosreflexes-d-architectes#webcast_autoplay](http://www.usievents.com/fr/conferences/4-usi-2009/sessions/797-quelques-idees-issues-des-grands-du-web-pour-remettre-en-cause-vosreflexes-d-architectes#webcast_autoplay)
 
 
-
-
-
-
 ## Pratiques
 
 ### Lean Startup
@@ -91,6 +87,19 @@ Compilation des sources (lien Internet) pour chacun des chapitres de l'excellent
 - [http://www.amazon.com/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302](http://www.amazon.com/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302)
 
 ### Minimum Viable Product
+- [http://www.startuplessonslearned.com/2009/08/minimum-viableproduct-guide.html](http://www.startuplessonslearned.com/2009/08/minimum-viableproduct-guide.html)
+- [http://www.slideshare.net/startuplessonslearned/minimum-viableproduct](http://www.slideshare.net/startuplessonslearned/minimum-viableproduct)
+- [http://www.startuplessonslearned.com/2009/03/minimum-viableproduct.html](http://www.startuplessonslearned.com/2009/03/minimum-viableproduct.html)
+- [http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product](http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product)
+- [http://en.wikipedia.org/wiki/Minimum_viable_product](http://en.wikipedia.org/wiki/Minimum_viable_product)
+- [http://timothyfitz.wordpress.com/2009/02/10/continuous-deploymentat-imvu-doing-the-impossible-fifty-times-a-day](http://timothyfitz.wordpress.com/2009/02/10/continuous-deploymentat-imvu-doing-the-impossible-fifty-times-a-day)
+- [http://www.universite-du-si.com/fr/conferences/8-paris-usi-2011/sessions/1012-lean-start-up](http://www.universite-du-si.com/fr/conferences/8-paris-usi-2011/sessions/1012-lean-start-up)
+- [http://venturehacks.com/articles/minimum-viable-product](http://venturehacks.com/articles/minimum-viable-product)
+- [http://www.svpg.com/minimum-viable-product](http://www.svpg.com/minimum-viable-product)
+- [http://www.slideshare.net/Mgandin/lean-startup03-slideshare](http://www.slideshare.net/Mgandin/lean-startup03-slideshare)
+- [http://www.runningleanhq.com/](http://www.runningleanhq.com/)
+
+
 ### Continuous Deployment
 ### Feature Flipping
 ### Feature Flipping
